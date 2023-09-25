@@ -74,7 +74,7 @@ global.povo = '-' // Ovo
 global.pgopay = '-' // Gopay
 
 /// Api keys
-global.clayza = 'kntLEPj3iU' // https://api.clayzaaubert.my.id
+global.clayza = 'AF-kntldzki' // https://api.clayzaaubert.my.id
 
 /// TEXT
 global.stiker_wait = '_Sedang Di Proses, Mohon Tunggu_.....'
